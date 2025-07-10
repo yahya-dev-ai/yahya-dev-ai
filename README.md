@@ -15,7 +15,7 @@ Driven by a deep passion for technology and innovation, I am striving to break f
 ---
 
 ## <span style="color:#117A65;">Projects</span>
-*<span style="color:gray;">Coming soon!</span>*
+- [Enterprise Demo](./enterprise-demo/) - A collection of enterprise-inspired demos showcasing full-stack development.
 
 ---
 
