@@ -11,7 +11,6 @@ Driven by a deep passion for technology and innovation, I am striving to break f
 - 🎓 <b>Education:</b> <span style="color:#B9770E;">Currently pursuing a Bachelor’s in Computer Science at Arab Open University</span>
 - 💻 <b>Diploma:</b> <span style="color:#B9770E;">Computer Programming, Institute of Public Administration</span>
 - 🚀 <b>Interests:</b> <span style="color:#CA6F1E;">Artificial Intelligence</span>, <span style="color:#8E44AD;">Data Science</span>, <span style="color:#2874A6;">Full Stack Development</span>
-- 🗣️ <b>Languages:</b> Arabic, English
 ---
 
 ## <span style="color:#117A65;">Projects</span>
