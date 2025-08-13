@@ -19,8 +19,8 @@ Driven by a deep passion for technology and innovation, I am striving to break f
 ---
 
 ## <span style="color:#117A65;">LinkedIn</span>
-[![LinkedIn Badge](https://img.shields.io/badge/Yahya%20Aldawsari-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/salem-aldawsari-a8a494203/)
+[![LinkedIn Badge](https://img.shields.io/badge/Yahya%20Aldawsari-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yahya-aldawsari/)
 
 ---
 
-<sub>For a full list of my certifications, please visit my [LinkedIn profile](https://www.linkedin.com/in/salem-aldawsari-a8a494203/).</sub>
+<sub>For a full list of my certifications, please visit my [LinkedIn profile](https://www.linkedin.com/in/yahya-aldawsari/).</sub>
