@@ -16,6 +16,7 @@ Driven by a deep passion for technology and innovation, I am striving to break f
 ## <span style="color:#117A65;">Projects</span>
 - [Enterprise Demo](https://github.com/Salem-tech/enterprise-demo/tree/main) - A collection of enterprise-inspired demos showcasing full-stack development.
 
+- [Courses Practicals](https://github.com/Salem-tech/courses-practicals/tree/main) - A collection of hands-on projects, assignments, and exercises from various courses.
 ---
 
 ## <span style="color:#117A65;">LinkedIn</span>
